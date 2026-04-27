@@ -1,4 +1,4 @@
-Label,Units,n/a,Time_Piezo,Volts_Piezo,Label,Units,n/a,Time_Hammer,Volts_Hammer
+Label,Units,n/a,Time_Piezo,Volts_Piezo,Label,Units,n/a_1,Time_Hammer,Volts_Hammer
 Record Length,2500,Points,-1.03E-03,0,Record Length,2500,Points,-1.03E-03,-4.00E-02
 Sample Interval,1.00E-06,s,-1.03E-03,0,Sample Interval,1.00E-06,s,-1.03E-03,0
 Trigger Point,1.03E+03,Samples,-1.03E-03,0,Trigger Point,1.03E+03,Samples,-1.03E-03,0
